@@ -1,0 +1,15 @@
+{
+  "name": "api-audit-kit",
+  "version": "1.0.0",
+  "description": "Find vulnerabilities in your REST API in 30 minutes. Rate limits, injection, input validation, auth boundaries.",
+  "main": "index.js",
+  "bin": {
+    "api-audit-kit": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["api", "security", "audit", "stress-test", "rate-limit", "injection", "vulnerability", "pentest"],
+  "author": "Rex (Garden Reef)",
+  "license": "MIT"
+}
